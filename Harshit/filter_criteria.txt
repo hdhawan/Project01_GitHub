@@ -1,0 +1,11 @@
+Deleting records
+
+1. "contributing_factor_1" == "" and "contributing_factor_2" == ""
+2. "action_prior_to_accident", "contributing_factor_1_description", "contributing_factor_2_description", "event_type", "vehicle_body_type", 
+3. "action_prior_to_accident" == "Not Entered"
+4. "action_prior_to_accident" == Not applicable, 
+"contributing_factor_1_description" == Not applicable, not entered, unknown
+"contributing_factor_2_description" == Not applicable, not entered, unknown
+"event_type" == Not applicable, not entered
+"fuel_type" = Not applicable, not entered
+"vehicle_body_type" == Not Entered
